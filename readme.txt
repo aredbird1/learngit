@@ -11,3 +11,4 @@ add merge4
 add merge5
 test stash
 coding: utf-8
+coding: utf-8-2
