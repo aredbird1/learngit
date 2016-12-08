@@ -12,3 +12,5 @@ add merge5
 test stash
 /usr/bin/env
 /usr/bin/env-2
+coding: utf-8
+coding: utf-8-2
