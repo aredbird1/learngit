@@ -11,3 +11,4 @@ add merge4
 add merge5
 test stash
 /usr/bin/env
+/usr/bin/env-2
